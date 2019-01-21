@@ -5,10 +5,10 @@ Muito obrigada por se inscrever na Eventex.
 Estes foram os dados que você nos forneceu
 em sua inscrição:
 
-Nome: {{ subscription.name }}
-CPF: {{ subscription.cpf }}
-Email: {{ subscription.email }}
-Telefone: {{ subscription.phone }}
+Nome: Patrick
+CPF: 12345678900
+Email: patrick.angelis@testmail.com
+Telefone: 83 99999-8888
 
 Em até 48 horas úteis, a nossa equipe entrará
 em contato com você para concluirmos a sua
