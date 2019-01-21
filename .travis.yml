@@ -3,7 +3,7 @@ language: python
 python:
   - "3.7.2"
 install:
-  - cp contrib/env-sample.env
+  - cp contrib/env-sample.env .env
   - pip install -q -r requiriments.txt
 script:
   - python manage.py test
